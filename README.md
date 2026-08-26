@@ -264,3 +264,63 @@ ante change ippudu final aipoyindi ani meaning. Add ante aa change ni manam add 
 ready ga undi ani meaning. So edaina change ni final cheyyadam Git and GitHub lo two-step process. Ippudu Git meeda changes ni manam
 
 add commit rendu chestham and veetini manam detail-ga chadukuntam — add commit actually enti and veetini ela chestham. Kaani Git... 
+
+GitHub meeda directly ee add wala step skip aipothundi and direct-ga manam mana changes ni commit cheyyachu. Changes ni commit cheyyadam ante daani screenshot teesukoni, memory lopala store cheyyadam — ee time lo ee change jarigindi ani.
+
+So manam Git leda GitHub mana history save chestundi ani cheppinappudu, history save cheyyadam ante eppudaithe manam commit dwara screenshot teesamo, appudappudu teesina aa screenshots anni saved ayi untayi. Ade mana history. Ante adi commits ni history form lo save chestundi.
+
+Ippudu mana project lopala inkemaina change cheyyali anukunte. Let's suppose change cheyyadaniki README lopala unna ee edit symbol meeda click chestham and mana README file edit cheyyadaniki open avtundi. Ippudu mana README file open ayyindi and daani lopala manam edaina changes cheyyachu.
+
+Let's suppose oka line extra add chestham. And ikkada nenu author add cheyyabothunnanu. Shraddha Khapra, which is my name. Meeru kavali anukunte mee name ni author-ga add cheyyachu. Author ante ee project lopala evaru changes chestunnaru ani.
+
+So ikkada manam oka change chesam. Kaani ee change inka save avvaledu. Ee change ni save cheyyadaniki, ante daani screenshot teesukovadaniki, nenu Commit Changes ki vellali.
+
+Manam Commit Changes meeda click cheyyagane, Commit Changes lopala mana daggara oka commit message untundi. Commit message ante, daani lopala manam message lo ee change enduku chestunnam leda em change avtundi ani cheppali, danini memory lopala save cheskovadaniki.
+
+Ante idi mana screenshot ki oka rakamga manam ardham cheskovachu — manam daaniki oka name rastunnam. Mana commit ki oka name rastunnam.
+
+Daaniki manam **Update README** ani name istunnam. Ippatiki ee default option ni save cheskundam. Dinni Commit Changes chestham.
+
+Changes ni commit cheyyagane, ippudu malli mana code lopala click chestham. So manam ikkada ki vacham. Ee sari em chupistundi? Ee sari README lopala **This is my first Git repository** and author lopala naa name chupistundi.
+
+Daanitho paatu ikkada **Update README** ani chupistundi, ante Initial commit kanipinchadam ledu. Ikkada mana new commit vachindi. Eppudaina mana code edaina, mana files edaina, prati file mundu daani latest commit vastundi — last-ga ikkada em change ayyindi? Last change update ayyindi. So adi mana daggara ikkada raasi kanipistundi.
+
+Daanitho paatu oka thing meeru think chesthu undochu — README.md lopala manam author ni add chesam kada, next file lopala add chesam. Mari adi next file lopala enduku raledu?
+
+README mana normal text files laga undadu. README lopala changes cheyyadaniki manam separate-ga konni syntax untayi, vaatini nerchukovali. Leda manaki basic HTML teliste, daanitho kuda mana README ni change cheyyachu.
+
+Example ki ikkada manam **BR tag** rasthe, BR tag yokka basic meaning HTML lo oka next line. Kaani daanini manam README lopala kuda use cheyyachu.
+
+Manam Commit Changes chesinappudu, ikkada **Update README with next line** ani rayachu, leda **Add next line** ani rayachu. Changes ni commit chesam. And manam changes chesina ventane, ee sari mana aa line next line ki vachindi.
+
+Malli code lopaliki vacham and ee sari better way lo mana text kanipistundi. So README lopala changes cheyyadaniki manam konchem basic HTML nerchukovachu. Daaniki related-ga already one-shot...
+
+GitHub meeda directly ee **add** wala step skip aipothundi and direct-ga manam mana changes ni **commit** cheyyachu. Changes ni commit cheyyadam ante daani screenshot teesukoni, memory lopala store cheyyadam — “haan, ee time lo ee change jarigindi” ani.
+
+So manam Git leda GitHub mana history save chestundi ani cheppinappudu, history save cheyyadam ante eppudaithe manam commit dwara screenshot teesamo, appudappudu teesina aa screenshots anni saved ayi untayi. Ade mana history. Ante adi commits ni history form lo save chestundi.
+
+Ippudu mana project lopala manaki inkemaina change cheyyali. Let's suppose change cheyyadaniki README lopala ee edit symbol meeda click chestham and mana README file edit cheyyadaniki open avtundi.
+
+Ippudu mana README file open ayyindi and daani lopala manam edaina changes cheyyachu. Let's suppose oka line extra add chestham. And ikkada nenu author add cheyyabothunnanu. Shraddha Khapra, which is my name. Meeru kavali anukunte mee name add cheyyachu as author. Author ante ee project lopala evaru changes chestunnaru ani.
+
+So ikkada manam oka change chesam. Kaani ee change inka save avvaledu. Ee change ni save cheyyadaniki, ante daani screenshot teesukovadaniki, nenu **Commit Changes** ki vellali.
+
+Manam Commit Changes meeda click cheyyagane, Commit Changes lopala mana daggara oka commit message untundi. Commit message ante ee change enduku chestunnam leda em change avtundi ani message lo cheppali, danini memory lopala save cheskovadaniki.
+
+Ante idi mana screenshot ki oka rakamga manam ardham cheskovachu — manam name rastunnam. Mana commit ki oka name rastunnam.
+
+Daaniki manam **Update README** ani name istunnam. Ippatiki ee default option ni save cheskundam. Dinni Commit Changes chestham.
+
+Changes ni commit cheyyagane, malli mana code lopala click chestham. So manam ikkada ki vacham. Ee sari em chupistundi? Ee sari README lopala **This is my first Git repository** and author lopala naa name chupistundi.
+
+Daanitho paatu ikkada **Update README** ani chupistundi. Ante ikkada Initial commit kanipinchadam ledu. Ikkada mana new commit vachindi. Eppudaina mana code edaina, mana files edaina, prati file mundu daani latest commit vastundi — last-ga ikkada em change ayyindi? Last change update ayyindi. So adi mana daggara ikkada raasi kanipistundi.
+
+Daanitho paatu oka thing meeru think chesthu undochu — README.md lopala manam author ni add chesam kada, next file lopala add chesam. Mari adi next file lopala enduku raledu?
+
+README mana normal text files laga undadu. README lopala changes cheyyadaniki manam separate-ga konni syntax untayi, vaatini nerchukovali. Leda manaki basic HTML teliste, daanitho kuda mana README ni change cheyyachu.
+
+Example ki ikkada manam **BR tag** rasthe, BR tag yokka basic meaning HTML lo oka next line. Kaani daanini manam README lopala kuda use cheyyachu. Manam Commit Changes chesinappudu, ikkada **Update README with next line** ani rayachu, leda **Add next line** ani rayachu.
+
+Changes ni commit chesam. And manam changes chesina ventane, ee sari mana aa line next line ki vachindi. Malli code lopaliki vacham and ee sari better way lo mana text kanipistundi.
+
+So README lopala changes cheyyadaniki manam konchem basic HTML nerchukovachu. Daaniki related-ga already one-shot... 
